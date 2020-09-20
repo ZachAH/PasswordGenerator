@@ -45,7 +45,7 @@ function getPasswordOptions() {
         return;
     }
 
-    //boolean arguments for  using the above var arrays set up
+    //boolean arguments for  using the above var arrays set u
     var passwordOptions = {
         length: length,
         hasNumbers: hasNumbers,
